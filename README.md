@@ -6,6 +6,6 @@ Code/Hardware/Electronics files for an LED art piece inspired by the movie Ex Ma
 |:--:|
 | *Finished piece running a 'rain' animation* |
 
-This is the first release of the project.  The build log is highlighted [here](https://github.com/andrewlstewart/Ex-Machina-LED-Wall).
+This is the first release of the project.  The build log is highlighted [here](https://imgur.com/gallery/gdkULbw).
 
 I'll update the technical parts and how they can be used.  If you need the original Solidworks or Altium files let me know and I'll upload them.
